@@ -1,0 +1,19 @@
+{
+  "name": "choreminder",
+  "version": "1.0.0",
+  "description": "for tracking completed chores and enabling computer stuff based on completion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcanning/ChoreMinder.git"
+  },
+  "author": "David Canning",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dcanning/ChoreMinder/issues"
+  },
+  "homepage": "https://github.com/dcanning/ChoreMinder#readme"
+}
